@@ -1,0 +1,37 @@
+body{
+    background-color: grey;
+}
+
+#header{
+    height: 165px;
+    background-color: aqua;
+}
+
+#navigation{
+    height: 35px;
+    background-color: yellow;
+}
+
+#headline{
+    height: 25px;
+    background-color: blueviolet;
+}
+
+#content{
+    width: 940px;
+    padding: 30px;
+    margin: auto;
+    background-color: whitesmoke;
+}
+
+#footer{
+    height: 350px;
+    background-color: aqua;
+}
+
+#header p{
+    margin: 0;
+    color: red;
+    font-size: 100px;
+    text-align: center;
+}
